@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rishicreates20/Leetcode/tree/master/0049-group-anagrams) |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rishicreates20/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0242-valid-anagram](https://github.com/Rishicreates20/Leetcode/tree/master/0242-valid-anagram) |
+| [0940-distinct-subsequences-ii](https://github.com/Rishicreates20/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 ## Sorting
 |  |
 | ------- |
@@ -77,4 +78,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishicreates20/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0940-distinct-subsequences-ii](https://github.com/Rishicreates20/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 <!---LeetCode Topics End-->
