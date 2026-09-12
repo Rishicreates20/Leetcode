@@ -86,4 +86,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3870-count-commas-in-range](https://github.com/Rishicreates20/Leetcode/tree/master/3870-count-commas-in-range) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/Rishicreates20/Leetcode/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
