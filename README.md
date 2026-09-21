@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rishicreates20/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Rishicreates20/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Rishicreates20/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [3524-find-x-value-of-array-i](https://github.com/Rishicreates20/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -82,9 +83,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0940-distinct-subsequences-ii](https://github.com/Rishicreates20/Leetcode/tree/master/0940-distinct-subsequences-ii) |
+| [3524-find-x-value-of-array-i](https://github.com/Rishicreates20/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 ## Math
 |  |
 | ------- |
+| [3524-find-x-value-of-array-i](https://github.com/Rishicreates20/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Rishicreates20/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Database
 |  |
