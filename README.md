@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rishicreates20/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0242-valid-anagram](https://github.com/Rishicreates20/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rishicreates20/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0815-bus-routes](https://github.com/Rishicreates20/Leetcode/tree/master/0815-bus-routes) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rishicreates20/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 ## String
 |  |
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0128-longest-consecutive-sequence](https://github.com/Rishicreates20/Leetcode/tree/master/0128-longest-consecutive-sequence) |
 | [0347-top-k-frequent-elements](https://github.com/Rishicreates20/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Rishicreates20/Leetcode/tree/master/0463-island-perimeter) |
+| [0815-bus-routes](https://github.com/Rishicreates20/Leetcode/tree/master/0815-bus-routes) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rishicreates20/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1765-map-of-highest-peak](https://github.com/Rishicreates20/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishicreates20/Leetcode/tree/master/3524-find-x-value-of-array-i) |
@@ -116,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0463-island-perimeter](https://github.com/Rishicreates20/Leetcode/tree/master/0463-island-perimeter) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rishicreates20/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
+| [0815-bus-routes](https://github.com/Rishicreates20/Leetcode/tree/master/0815-bus-routes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rishicreates20/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rishicreates20/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1765-map-of-highest-peak](https://github.com/Rishicreates20/Leetcode/tree/master/1765-map-of-highest-peak) |
