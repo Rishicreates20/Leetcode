@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rishicreates20/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Rishicreates20/Leetcode/tree/master/0743-network-delay-time) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Rishicreates20/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Rishicreates20/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rishicreates20/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Rishicreates20/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Trie
 |  |
 | ------- |
@@ -139,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rishicreates20/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rishicreates20/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Rishicreates20/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Rishicreates20/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rishicreates20/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
@@ -159,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0743-network-delay-time](https://github.com/Rishicreates20/Leetcode/tree/master/0743-network-delay-time) |
 | [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Rishicreates20/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
+| [2642-design-graph-with-shortest-path-calculator](https://github.com/Rishicreates20/Leetcode/tree/master/2642-design-graph-with-shortest-path-calculator) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
