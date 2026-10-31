@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rishicreates20/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0743-network-delay-time](https://github.com/Rishicreates20/Leetcode/tree/master/0743-network-delay-time) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Rishicreates20/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rishicreates20/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rishicreates20/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rishicreates20/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Rishicreates20/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rishicreates20/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
 ## Backtracking
 |  |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0743-network-delay-time](https://github.com/Rishicreates20/Leetcode/tree/master/0743-network-delay-time) |
+| [2203-minimum-weighted-subgraph-with-the-required-paths](https://github.com/Rishicreates20/Leetcode/tree/master/2203-minimum-weighted-subgraph-with-the-required-paths) |
 ## Dijkstra's Algorithm
 |  |
 | ------- |
