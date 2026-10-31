@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/Rishicreates20/Leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0743-network-delay-time](https://github.com/Rishicreates20/Leetcode/tree/master/0743-network-delay-time) |
 ## Bucket Sort
 |  |
 | ------- |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0211-design-add-and-search-words-data-structure](https://github.com/Rishicreates20/Leetcode/tree/master/0211-design-add-and-search-words-data-structure) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/Rishicreates20/Leetcode/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0463-island-perimeter](https://github.com/Rishicreates20/Leetcode/tree/master/0463-island-perimeter) |
+| [0743-network-delay-time](https://github.com/Rishicreates20/Leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rishicreates20/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1971-find-if-path-exists-in-graph](https://github.com/Rishicreates20/Leetcode/tree/master/1971-find-if-path-exists-in-graph) |
 | [2685-count-the-number-of-complete-components](https://github.com/Rishicreates20/Leetcode/tree/master/2685-count-the-number-of-complete-components) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0463-island-perimeter](https://github.com/Rishicreates20/Leetcode/tree/master/0463-island-perimeter) |
+| [0743-network-delay-time](https://github.com/Rishicreates20/Leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rishicreates20/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [0815-bus-routes](https://github.com/Rishicreates20/Leetcode/tree/master/0815-bus-routes) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rishicreates20/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
@@ -129,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Graph Theory
 |  |
 | ------- |
+| [0743-network-delay-time](https://github.com/Rishicreates20/Leetcode/tree/master/0743-network-delay-time) |
 | [0797-all-paths-from-source-to-target](https://github.com/Rishicreates20/Leetcode/tree/master/0797-all-paths-from-source-to-target) |
 | [1129-shortest-path-with-alternating-colors](https://github.com/Rishicreates20/Leetcode/tree/master/1129-shortest-path-with-alternating-colors) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rishicreates20/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
@@ -148,4 +152,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Rishicreates20/Leetcode/tree/master/0463-island-perimeter) |
 | [1765-map-of-highest-peak](https://github.com/Rishicreates20/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [3665-twisted-mirror-path-count](https://github.com/Rishicreates20/Leetcode/tree/master/3665-twisted-mirror-path-count) |
+## Shortest Path
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Rishicreates20/Leetcode/tree/master/0743-network-delay-time) |
+## Dijkstra's Algorithm
+|  |
+| ------- |
+| [0743-network-delay-time](https://github.com/Rishicreates20/Leetcode/tree/master/0743-network-delay-time) |
 <!---LeetCode Topics End-->
