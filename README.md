@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Rishicreates20/Leetcode/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Rishicreates20/Leetcode/tree/master/0049-group-anagrams) |
 | [0128-longest-consecutive-sequence](https://github.com/Rishicreates20/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0283-move-zeroes](https://github.com/Rishicreates20/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rishicreates20/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Rishicreates20/Leetcode/tree/master/0463-island-perimeter) |
 | [0815-bus-routes](https://github.com/Rishicreates20/Leetcode/tree/master/0815-bus-routes) |
@@ -120,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0283-move-zeroes](https://github.com/Rishicreates20/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Rishicreates20/Leetcode/tree/master/0344-reverse-string) |
 ## Breadth-First Search
 |  |
