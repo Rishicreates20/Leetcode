@@ -1,19 +1,11 @@
 class Solution(object):
-    def merge(self, nums1, m, nums2, n):
-        """
-        :type nums1: List[int]
-        :type m: int
-        :type nums2: List[int]
-        :type n: int
-        :rtype: None Do not return anything, modify nums1 in-place instead.
-        """
+    def merge(self, nums1,m,nums2,n):
         p1 = m - 1
         p2 = n - 1
-
         p = m + n - 1
 
         while p2 >= 0:
-            if p1 >= 0 and nums1[p1] > nums2[p2]:
+            if p1 >= 0  and nums1[p1] > nums2[p2]:
                 nums1[p] = nums1[p1]
                 p1 -= 1
             else:
@@ -21,3 +13,4 @@ class Solution(object):
                 p2 -= 1
             p -= 1
 
+  
