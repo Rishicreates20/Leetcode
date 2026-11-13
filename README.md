@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Rishicreates20/Leetcode/tree/master/0049-group-anagrams) |
 | [0118-pascals-triangle](https://github.com/Rishicreates20/Leetcode/tree/master/0118-pascals-triangle) |
 | [0128-longest-consecutive-sequence](https://github.com/Rishicreates20/Leetcode/tree/master/0128-longest-consecutive-sequence) |
+| [0135-candy](https://github.com/Rishicreates20/Leetcode/tree/master/0135-candy) |
 | [0283-move-zeroes](https://github.com/Rishicreates20/Leetcode/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Rishicreates20/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0463-island-perimeter](https://github.com/Rishicreates20/Leetcode/tree/master/0463-island-perimeter) |
@@ -189,4 +190,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rishicreates20/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+## Greedy
+|  |
+| ------- |
+| [0135-candy](https://github.com/Rishicreates20/Leetcode/tree/master/0135-candy) |
 <!---LeetCode Topics End-->
