@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rishicreates20/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rishicreates20/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rishicreates20/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
+| [2463-minimum-total-distance-traveled](https://github.com/Rishicreates20/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 ## Array
 |  |
 | ------- |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Rishicreates20/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rishicreates20/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1765-map-of-highest-peak](https://github.com/Rishicreates20/Leetcode/tree/master/1765-map-of-highest-peak) |
+| [2463-minimum-total-distance-traveled](https://github.com/Rishicreates20/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishicreates20/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Rishicreates20/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Divide and Conquer
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0931-minimum-falling-path-sum](https://github.com/Rishicreates20/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0940-distinct-subsequences-ii](https://github.com/Rishicreates20/Leetcode/tree/master/0940-distinct-subsequences-ii) |
 | [1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance](https://github.com/Rishicreates20/Leetcode/tree/master/1334-find-the-city-with-the-smallest-number-of-neighbors-at-a-threshold-distance) |
+| [2463-minimum-total-distance-traveled](https://github.com/Rishicreates20/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishicreates20/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3665-twisted-mirror-path-count](https://github.com/Rishicreates20/Leetcode/tree/master/3665-twisted-mirror-path-count) |
 ## Math
