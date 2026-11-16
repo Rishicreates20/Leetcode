@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Rishicreates20/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0815-bus-routes](https://github.com/Rishicreates20/Leetcode/tree/master/0815-bus-routes) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rishicreates20/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rishicreates20/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rishicreates20/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 ## String
 |  |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0815-bus-routes](https://github.com/Rishicreates20/Leetcode/tree/master/0815-bus-routes) |
 | [0931-minimum-falling-path-sum](https://github.com/Rishicreates20/Leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rishicreates20/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rishicreates20/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rishicreates20/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1765-map-of-highest-peak](https://github.com/Rishicreates20/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [2463-minimum-total-distance-traveled](https://github.com/Rishicreates20/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rishicreates20/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [3524-find-x-value-of-array-i](https://github.com/Rishicreates20/Leetcode/tree/master/3524-find-x-value-of-array-i) |
 | [3870-count-commas-in-range](https://github.com/Rishicreates20/Leetcode/tree/master/3870-count-commas-in-range) |
 ## Database
@@ -200,4 +203,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Rishicreates20/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rishicreates20/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
+## Sliding Window
+|  |
+| ------- |
+| [1248-count-number-of-nice-subarrays](https://github.com/Rishicreates20/Leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
