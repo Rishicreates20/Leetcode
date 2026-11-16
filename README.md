@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/Rishicreates20/Leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/Rishicreates20/Leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0815-bus-routes](https://github.com/Rishicreates20/Leetcode/tree/master/0815-bus-routes) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rishicreates20/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rishicreates20/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 ## String
 |  |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0463-island-perimeter](https://github.com/Rishicreates20/Leetcode/tree/master/0463-island-perimeter) |
 | [0815-bus-routes](https://github.com/Rishicreates20/Leetcode/tree/master/0815-bus-routes) |
 | [0931-minimum-falling-path-sum](https://github.com/Rishicreates20/Leetcode/tree/master/0931-minimum-falling-path-sum) |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rishicreates20/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 | [1311-get-watched-videos-by-your-friends](https://github.com/Rishicreates20/Leetcode/tree/master/1311-get-watched-videos-by-your-friends) |
 | [1765-map-of-highest-peak](https://github.com/Rishicreates20/Leetcode/tree/master/1765-map-of-highest-peak) |
 | [2463-minimum-total-distance-traveled](https://github.com/Rishicreates20/Leetcode/tree/master/2463-minimum-total-distance-traveled) |
@@ -194,4 +196,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0135-candy](https://github.com/Rishicreates20/Leetcode/tree/master/0135-candy) |
+## Prefix Sum
+|  |
+| ------- |
+| [0974-subarray-sums-divisible-by-k](https://github.com/Rishicreates20/Leetcode/tree/master/0974-subarray-sums-divisible-by-k) |
 <!---LeetCode Topics End-->
