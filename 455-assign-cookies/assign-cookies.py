@@ -1,10 +1,6 @@
-class Solution(object):
-    def findContentChildren(self, g, s):
-        """
-        :type g: List[int]
-        :type s: List[int]
-        :rtype: int
-        """
+class Solution:
+    def findContentChildren(self, g: list[int], s: list[int]) -> int:
+        
         g.sort()
         s.sort()
 
@@ -16,4 +12,5 @@ class Solution(object):
                 child_ptr += 1
 
             cookie_ptr += 1
+            
         return child_ptr
