@@ -1,8 +1,11 @@
 from collections import defaultdict
 
 class Solution:
+    def subarraysWithKDistance(self, nums: list[int], k: int) -> int:
+        pass
+
     def subarraysWithKDistinct(self, nums: list[int], k: int) -> int:
-        def atMostK(k: int) -> int:
+        def atMost(k):
             count = defaultdict(int)
             res = 0
             l = 0
@@ -16,8 +19,7 @@ class Solution:
                     if count[nums[l]] == 0:
                         k += 1
                     l += 1
-                
                 res += r - l + 1
             return res
 
-        return atMostK(k) - atMostK(k - 1)
+        return atMost(k) - atMost(k - 1)
